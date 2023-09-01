@@ -7,7 +7,7 @@ public class SmartTv {
     public void ligar(){
         ligada = true;
     }
-    public void deslogar(){
+    public void desligar(){
         ligada = false;
     }
     public void aumentarVolume(){
