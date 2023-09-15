@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println(operacoes.fullname("Camilo","Almeida"));
-        /*
+
         SmartTv smartTv = new SmartTv();
-        smartTv.ligar();
+
         System.out.println("TV ligada ? " + smartTv.ligada);
         System.out.println("Canal atual : " + smartTv.canal);
         System.out.println("Volume atual : " + smartTv.volume);
@@ -16,8 +16,8 @@ public class Main {
         smartTv.mudarCanal(7);
         System.out.println(smartTv.volume);
         System.out.println(smartTv.canal);
-         */
-        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+
+        /*Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         System.out.println("Diga teu nome e sobrenome: ");
         String nome = scanner.nextLine();
         System.out.println("Diga sua altura: ");
@@ -26,7 +26,7 @@ public class Main {
         int idade = scanner.nextInt();
         System.out.println("ola " + nome);
         System.out.println("Altura " + altura);
-        System.out.println("Idade " + idade);
+        System.out.println("Idade " + idade);*/
     }
 
 

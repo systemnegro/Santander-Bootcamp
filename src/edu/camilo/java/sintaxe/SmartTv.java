@@ -1,10 +1,10 @@
 package edu.camilo.java.sintaxe;
 
 public class SmartTv {
-    boolean ligada = false;
+    boolean  ligada = false;
     int canal = 11,volume =30;
 
-    public void ligar(){
+    private void ligar(){
         ligada = true;
     }
     public void desligar(){
