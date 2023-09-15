@@ -1,22 +1,22 @@
 package edu.camilo.java.sintaxe;
 
-public class SmartTv {
+ class SmartTv {
     boolean  ligada = false;
     int canal = 11,volume =30;
 
-    private void ligar(){
+     void ligar(){
         ligada = true;
     }
-    public void desligar(){
+     void desligar(){
         ligada = false;
     }
-    public void aumentarVolume(){
+     void aumentarVolume(){
         volume++;
     }
-    public void abaixarVolume(){
+     void abaixarVolume(){
         volume--;
     }
-    public void mudarCanal(int novocanal){
+     void mudarCanal(int novocanal){
         canal = novocanal;
     }
 
