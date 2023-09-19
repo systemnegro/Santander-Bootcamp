@@ -1,4 +1,4 @@
-package edu.camilo.java.poo.abtracaoPolimorfismo;
+package edu.camilo.java.poo.abtracaoPolimorfismo.apps;
 
 public abstract class ServicoMensagem {
     public abstract void  enviarMensagem();
