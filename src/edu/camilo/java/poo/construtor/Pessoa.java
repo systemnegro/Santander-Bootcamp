@@ -1,9 +1,12 @@
 package edu.camilo.java.poo.construtor;
+import java.util.ArrayList;
 
 public class Pessoa {
     private String nome;
     private String cpf;
     private String endereco;
+    ArrayList<Integer> lista = new ArrayList<>();
+
 
 
     public Pessoa(String nome, String cpf) {
