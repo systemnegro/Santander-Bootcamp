@@ -1,0 +1,14 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8Ãæ¥À­1
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8Äæ¥À­1
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8Äæ¥À­1
+s
+java:S1192>"QDefine a constant instead of duplicating this literal "Robert C. Martin" 3 times.(¡ÿ›°ùÿÿÿÿ8‚ªÀ­1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "A lista estÃ¡ vazia!" 3 times.(ÈñØìüÿÿÿÿ8Ææ¥À­1
+L	java:S106B"+Replace this use of System.out by a logger.(êîÜóÿÿÿÿÿ8±ç¥À­1
+G	java:S106E"+Replace this use of System.out by a logger.(–¨§‡8²ç¥À­1
+G	java:S106H"+Replace this use of System.out by a logger.(ùŞıß8´ç¥À­1
+L	java:S106K"+Replace this use of System.out by a logger.(ÁêÊÙùÿÿÿÿ8µç¥À­1
+L	java:S106N"+Replace this use of System.out by a logger.(€Ÿì¹ûÿÿÿÿ8¶ç¥À­1
+G	java:S106Q"+Replace this use of System.out by a logger.(áÆ¢8¸ç¥À­1
