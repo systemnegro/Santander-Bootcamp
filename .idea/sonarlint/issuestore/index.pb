@@ -21,3 +21,9 @@ n
 >src/edu/camilo/java/poo/collections/list/ordenacao/Pessoa.java,b\8\b8b0e4a857898e9f2b8f526d28dd516a874678bc
 x
 Hsrc/edu/camilo/java/poo/collections/list/ordenacao/OrdenacaoPessoas.java,4\6\46cd7236a64f98655cd81f5b5cd66eb4cf40d86a
+x
+Hsrc/edu/camilo/java/poo/collections/list/ordenacao/OrdenacaoNumeros.java,5\c\5ce14adaf64543f8bd4cd906aaca23a5afdfb63e
+€
+Psrc/edu/camilo/java/poo/collections/set/OperacoesBasicas/ConjuntoConvidados.java,4\7\4767a73cdcf13471a1e22e232381ab14f8cd3262
+w
+Gsrc/edu/camilo/java/poo/collections/set/OperacoesBasicas/Convidado.java,e\3\e310982e9b94280d99c3ab9ae45b9b265d51a881
