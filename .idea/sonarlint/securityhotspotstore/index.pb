@@ -43,3 +43,17 @@ x
 Hsrc/edu/camilo/java/poo/collections/set/Ordenacao/GerenciadorAlunos.java,3\2\3230176cec77626bf1df5d75cbd4d379271df841
 l
 <src/edu/camilo/java/poo/collections/set/Ordenacao/Aluno.java,a\e\aead76e45f46e6f481743e890e8a234426ebe85c
+m
+=src/edu/camilo/java/poo/collections/map/pesquisa/Produto.java,e\3\e32030a54fe82583533b0f3f2e07a2d5a5504586
+u
+Esrc/edu/camilo/java/poo/collections/map/pesquisa/EstoqueProdutos.java,5\2\5212881ceabc9c1b829587078018eddf900b281d
+v
+Fsrc/edu/camilo/java/poo/collections/map/pesquisa/ContagemPalavras.java,e\a\eab9f386465dde9159339501cd075942d8b2f33e
+m
+=src/edu/camilo/java/poo/collections/map/ordenacao/Evento.java,8\7\87325efecd1cdc504476afd944d3e2c73da04d0c
+t
+Dsrc/edu/camilo/java/poo/collections/map/ordenacao/AgendaEventos.java,2\e\2e787fee95fc017f3507ceff6e412844dc394d4f
+l
+<src/edu/camilo/java/poo/collections/map/ordenacao/Livro.java,1\f\1f5af56313f031f5a5d2abb83c4a7ae31d2bf2ca
+u
+Esrc/edu/camilo/java/poo/collections/map/ordenacao/LivrariaOnline.java,a\9\a95ae5d4b5284545a13d5d36c7a9a9025c1944c9
