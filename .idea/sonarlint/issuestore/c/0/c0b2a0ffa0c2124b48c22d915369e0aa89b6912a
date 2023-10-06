@@ -1,0 +1,5 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ùÔ¡¶8Ê²ˆ°1
+G	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8à“¨ˆ°1
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8á“¨ˆ°1

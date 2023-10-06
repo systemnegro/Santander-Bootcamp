@@ -57,3 +57,11 @@ l
 <src/edu/camilo/java/poo/collections/map/ordenacao/Livro.java,1\f\1f5af56313f031f5a5d2abb83c4a7ae31d2bf2ca
 u
 Esrc/edu/camilo/java/poo/collections/map/ordenacao/LivrariaOnline.java,a\9\a95ae5d4b5284545a13d5d36c7a9a9025c1944c9
+_
+/src/edu/camilo/java/stream/ConsumerExample.java,c\0\c0b2a0ffa0c2124b48c22d915369e0aa89b6912a
+_
+/src/edu/camilo/java/stream/SupplierExample.java,5\a\5a84b8dc65a06ccdeff107bc88f5c1968dda728c
+_
+/src/edu/camilo/java/stream/FunctionExample.java,b\0\b0a428ef5206910301106a93eff750b4c0ba0aec
+`
+0src/edu/camilo/java/stream/PredicateExample.java,e\0\e07230a88456460699a0432c8293592c3a81f6ea
