@@ -1,2 +1,5 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8®êÀ‹°1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ä¡Ý‚ýÿÿÿÿ8‚ßª±°1
+G	java:S106"+Replace this use of System.out by a logger.(ƒí¥º8„ßª±°1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Ÿ’¬±°1
