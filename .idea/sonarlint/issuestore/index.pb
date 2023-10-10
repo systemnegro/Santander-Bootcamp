@@ -85,3 +85,15 @@ a
 Lsrc/edu/camilo/java/poo/collections/map/operacoesBasicas/AgendaContatos.java,3\e\3e4addc9feb38f3c336af481c8067c2f53dcdfee
 a
 1src/edu/camilo/java/stream/desafios/Desafio7.java,b\5\b5f26b2406986cc8a3cd9dc5f4877b01e92f99a1
+b
+2src/edu/camilo/java/stream/desafios/Desafio12.java,a\a\aa1db6f8344780e9261897c9a5e48259cb88c329
+b
+2src/edu/camilo/java/stream/desafios/Desafio11.java,f\2\f22b3e23b96a2e04e49c26424752908ed05950b0
+b
+2src/edu/camilo/java/stream/desafios/Desafio10.java,7\e\7e850a1acf9a29a642f1a063f99e90934aedea9c
+a
+1src/edu/camilo/java/stream/desafios/Desafio9.java,0\c\0ce8aad11cd0b2495774cbdfa789b4f992d52d84
+a
+1src/edu/camilo/java/stream/desafios/Desafio8.java,0\2\02921937e13cfb3485e0b7094b0e7a24401dd998
+b
+2src/edu/camilo/java/stream/desafios/Desafio13.java,1\1\112c7630c7110ea2e9b6f82ae8998fb54294ce79
