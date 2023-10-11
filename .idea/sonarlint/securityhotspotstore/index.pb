@@ -97,3 +97,15 @@ b
 2src/edu/camilo/java/stream/desafios/Desafio12.java,a\a\aa1db6f8344780e9261897c9a5e48259cb88c329
 b
 2src/edu/camilo/java/stream/desafios/Desafio13.java,1\1\112c7630c7110ea2e9b6f82ae8998fb54294ce79
+b
+2src/edu/camilo/java/stream/desafios/Desafio15.java,8\e\8e5f45e7c2bdad3ae1af2348fcc522c68e1c0e95
+b
+2src/edu/camilo/java/stream/desafios/Desafio16.java,a\2\a2b74a181a607ae6ef728fd44261587db05d71ec
+b
+2src/edu/camilo/java/stream/desafios/Desafio17.java,5\d\5d5cdb75535efb964e4440bb5661f01882c97fcc
+b
+2src/edu/camilo/java/stream/desafios/Desafio14.java,7\6\767c4813c9bc258e1e7cdd41e3b29e5552ae5181
+b
+2src/edu/camilo/java/stream/desafios/Desafio18.java,b\0\b0584f3194dbfba3c740b2e69ca696a16869eb45
+b
+2src/edu/camilo/java/stream/desafios/Desafio19.java,e\6\e6a4494e570018f361b535e983875b226d3c9ddd
